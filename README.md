@@ -28,16 +28,15 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 
 ### Screenshot
 
-<<<<<<< HEAD:README.md
-=======
+
 ![alt text](image-1.png)
->>>>>>> da460c2c4d117fdfa0f48e7f028f5b82af1b4995:easybank-landing-page-master/README.md
+
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Rachy112/Easy-bank-landing-page)
+- Live Site URL: [Add live site URL here](http://rachylandingpage.netlify.app)
 
 ## My process
 
