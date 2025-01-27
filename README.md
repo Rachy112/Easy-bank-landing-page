@@ -28,6 +28,10 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 
 ### Screenshot
 
+<<<<<<< HEAD:README.md
+=======
+![alt text](image-1.png)
+>>>>>>> da460c2c4d117fdfa0f48e7f028f5b82af1b4995:easybank-landing-page-master/README.md
 
 
 ### Links
