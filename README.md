@@ -28,7 +28,6 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 
 ### Screenshot
 
-![alt text](image.png)
 
 
 ### Links
